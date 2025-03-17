@@ -24,27 +24,28 @@ _Above: Kanban Board UI in Action_
 
 git clone https://github.com/TechFosters/kanban-project.git
 
-2️⃣  **Go to Project Folder** 
+2️⃣  **Go to Project Folder** <br>
 cd kanban-project
 
-3️⃣ **Open in Browser** 
+3️⃣ **Open in Browser** <br>
 Simply index.html file ko open karein!
+
+
 ---
-<br>
-##💡 How to Use?
+## **💡 How to Use? **
 1️⃣ New Task Add Karein ➝ Task Title likhein aur "Add" button dabayein<br>
 2️⃣ Drag & Drop ➝ Tasks ko To-Do se In Progress aur Done section me move karein<br>
 3️⃣ Delete Task ➝ Complete hone ke baad remove karein<br>
 
 ---
-##🏗️ Future Enhancements
+## 🏗️ Future Enhancements
 📌 Dark Mode Support<br>
 📌 User Authentication & Multi-User Support<br>
 📌 Task Deadlines & Notifications<br>
-
-##🧑‍💻 Contributors<br>
+---
+## 🧑‍💻 Contributors<br>
 👤 Akshit Mudgal - Creator & Developer<br>
 📌 Want to contribute? Fork the repo & create a pull request! 🚀<br>
-
-##⭐ Loved it? Give a Star! 🌟<br>
+---
+## ⭐ Loved it? Give a Star! 🌟<br>
 Agar ye project pasand aaya ho toh GitHub pe star zaroor karein! 🤩✨<br>
