@@ -1,56 +1,50 @@
-📌 Kanban Board - A Simple Task Management Tool
+# 🚀 Kanban Project  
 
-Kanban Board ek simple aur efficient task management tool hai jo To-Do, In Progress, aur Done categories me tasks ko manage karne me madad karta hai.
+![Kanban Board](https://your-image-link.com)  
 
-Features
-✅ Drag & Drop Support – Tasks ko easily move karein
-✅ Persistent Storage – Tasks automatically local storage me save hote hain
-✅ Interactive UI – Simple aur clean design
-✅ Fully Responsive – Mobile aur desktop dono pe smoothly kaam karta hai
+Kanban Project ek **powerful aur simple task management tool** hai jo aapko apne tasks **organize** karne aur **efficiently kaam** karne me madad karta hai.  
 
-🖥️ Live Demo
+---
 
+## ✨ Features  
+✅ **Add, Edit, and Delete Tasks**  
+🔄 **Drag & Drop Functionality**  
+🎨 **Modern & Clean UI**  
+✅ **Local Storage** 
 
-🛠️ Tech Stack
-🔹 HTML – Structure ke liye
-🔹 CSS – Stunning UI ke liye
-🔹 JavaScript – Functionality aur interactivity ke liye
+---
 
+## 📸 Screenshots  
+![Dashboard](https://app.eraser.io/workspace/Bh30tl7Hy7TOaG9iS8yO?origin=share)  
+_Above: Kanban Board UI in Action_  
 
-🚀 Installation & Setup
-1️⃣ Clone the Repository:
+---
+
+## 🚀 Installation  
+1️⃣ **Clone the repository**  
 
 git clone https://github.com/TechFosters/kanban-project.git
-2️⃣ Navigate to the Project Folder:
 
+2️⃣  **Go to Project Folder** 
 cd kanban-project
 
-3️⃣ Open in Browser:
+3️⃣ **Open in Browser** 
 Simply index.html file ko open karein!
 
+<br>
 💡 How to Use?
-1️⃣ New Task Add Karein ➝ Task Title likhein aur "Add" button dabayein
-2️⃣ Drag & Drop ➝ Tasks ko To-Do se In Progress aur Done section me move karein
-3️⃣ Delete Task ➝ Complete hone ke baad remove karein
+1️⃣ New Task Add Karein ➝ Task Title likhein aur "Add" button dabayein<br>
+2️⃣ Drag & Drop ➝ Tasks ko To-Do se In Progress aur Done section me move karein<br>
+3️⃣ Delete Task ➝ Complete hone ke baad remove karein<br>
 
 🏗️ Future Enhancements
-📌 Dark Mode Support
-📌 User Authentication & Multi-User Support
-📌 Task Deadlines & Notifications
+📌 Dark Mode Support<br>
+📌 User Authentication & Multi-User Support<br>
+📌 Task Deadlines & Notifications<br>
 
-🧑‍💻 Contributors
-👤 Akshit Mudgal - Creator & Developer
+🧑‍💻 Contributors<br>
+👤 Akshit Mudgal - Creator & Developer<br>
+📌 Want to contribute? Fork the repo & create a pull request! 🚀<br>
 
-📌 Want to contribute? Fork the repo & create a pull request! 🚀
-
-⭐ Loved it? Give a Star! 🌟
-Agar ye project pasand aaya ho toh GitHub pe star zaroor karein! 🤩✨
-
-
-
-
-
-
-
-
-
+⭐ Loved it? Give a Star! 🌟<br>
+Agar ye project pasand aaya ho toh GitHub pe star zaroor karein! 🤩✨<br>
